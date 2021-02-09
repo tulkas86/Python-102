@@ -1,1 +1,1 @@
-print("Versión estable 0.1")
+print("Develop version 1.0")
